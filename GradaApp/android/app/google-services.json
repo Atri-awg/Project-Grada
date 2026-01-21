@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "12448289876",
+    "project_id": "koreksi-ujian-app",
+    "storage_bucket": "koreksi-ujian-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12448289876:android:613ed4eaa23b98802f89c1",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_koreksi_ujian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALCBfTovb5Mev7Riv83qhmnwXI-vyy2d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,38 @@
+name: aplikasi_koreksi_ujian
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  
+  # Firebase
+  firebase_core: ^2.32.0
+  firebase_database: ^10.5.7
+  firebase_auth: ^4.15.3
+  cloud_firestore: ^4.13.6
+  
+  # Scanner & Camera
+  mobile_scanner: ^3.5.7
+  camera: ^0.10.6
+  image_picker: ^1.0.4
+  
+  # Image Processing
+  image: ^4.5.4
+  
+  # PDF
+  pdf: ^3.10.4
+  printing: ^5.11.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.2
+
+flutter:
+  uses-material-design: true
